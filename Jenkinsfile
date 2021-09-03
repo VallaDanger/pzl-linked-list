@@ -132,7 +132,7 @@ pipeline {
                         [
                             $class: 'StringParameterValue', 
                             name: 'CODE_PROJECT', 
-                            value: 'compsci/puzzles/pzl-linked-list'
+                            value: 'compsci/puzzles'
                         ],
                         [
                             $class: 'StringParameterValue', 
